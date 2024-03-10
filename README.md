@@ -25,5 +25,3 @@ Your app is ready to be deployed!
 See the section about [build production](https://vitejs.dev/guide/build.html) for more information.
 
 See the section about [deployment](https://vitejs.dev/guide/static-deploy.html) for more information.
-
-## TODO
